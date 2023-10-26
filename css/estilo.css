@@ -88,16 +88,7 @@ footer{
     padding: auto;
     font-size: 15px;
 }
-/*cambio en css*/
-@media (max-width:375px) and (orientation: potrait){
-    header{
-        height: auto;
-        padding: 20px;
-        font-size: 5px;
-        align-items: center;
-        flex-direction: column;
-        }
-}   img{
+img{
     width: 100%;
     height: auto;
 }
